@@ -1,0 +1,19 @@
+{
+  "name": "fullstack-react-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axois": "^1.0.0",
+    "cors": "^2.8.5",
+    "epress": "^0.0.1-security",
+    "morgan": "^1.9.1"
+  },
+"scripts": {
+  "start": "nodemon index.js"
+},
+
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
